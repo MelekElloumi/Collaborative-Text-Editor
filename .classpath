@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-15.0.1">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Mallou/Desktop/INSAT/Cours/GL3/Me_Sem2/Syst_Repart/TP/amqp-client-5.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mallou/Desktop/INSAT/Cours/GL3/Me_Sem2/Syst_Repart/TP/rabbitmq-jms-1.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mallou/Desktop/INSAT/Cours/GL3/Me_Sem2/Syst_Repart/TP/slf4j-api-1.8.0-beta0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mallou/Desktop/INSAT/Cours/GL3/Me_Sem2/Syst_Repart/TP/slf4j-nop-1.8.0-beta0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
